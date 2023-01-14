@@ -1,0 +1,26 @@
+html,body{
+    background-color: rgb(138, 138, 186);
+    text-align: center;
+    color: rgb(255, 219, 219);
+}
+.skill-row{
+    text-align: left;
+    width: 50%;
+    margin: 100px auto 100px auto;
+    border:2px solid rgba(255, 255, 255, 0.34);
+    border-radius: 1rem;
+    padding: 30px;
+    line-height: 1.5rem;
+}
+.img-award{
+    width: 25% ;
+    border-radius: 3rem;
+    margin-right:50px ;
+    float: left;
+}
+.img-idea{
+    width: 25% ;
+    border-radius: 3rem;
+    margin-left:50px ;
+    float: right;
+}
